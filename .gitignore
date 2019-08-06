@@ -41,3 +41,21 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+.DS_Store
+.env
+.nyc_output
+/build
+/coverage
+/vscode
+/.vscode
+.vscode
+.idea/
+fonts/
+/reports
+/tmp
+reports/
+tmp/
+/dist
+dist/
+.cache
