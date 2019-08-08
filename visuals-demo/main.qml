@@ -11,7 +11,7 @@ ApplicationWindow {
         anchors.centerIn: parent
         Rectangle {
             id: firstRectId
-            width: 50
+            width: 200
             height: 50
             color: "#ff0000"
         }
@@ -29,9 +29,9 @@ ApplicationWindow {
                     color: "#92cf2f";
                 }
             }
-            opacity: .5
+//            opacity: .5
             anchors.left: firstRectId.right
-            anchors.leftMargin: -15
+//            anchors.leftMargin: -15
             visible: true
         }
     }
