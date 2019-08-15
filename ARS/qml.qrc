@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/knob.png</file>
+        <file>images/knob128.png</file>
+        <file>images/power_off.png</file>
+        <file>images/power_on.png</file>
+        <file>images/preset_down.png</file>
+        <file>images/preset_up.png</file>
+        <file>images/swatteam.png</file>
+        <file>images/TextBorder.png</file>
+        <file>ViewManager/mainviewmgr.cpp</file>
+        <file>ViewManager/mainviewmgr.h</file>
+        <file>main.cpp</file>
+        <file>startup.cpp</file>
+        <file>startup.h</file>
+        <file>Header.qml</file>
+        <file>RfPower.qml</file>
+        <file>PresetButton.qml</file>
+        <file>Knob.qml</file>
+        <file>KnobControl.qml</file>
+    </qresource>
+    <qresource prefix="/images"/>
+    <qresource prefix="/index"/>
+</RCC>
